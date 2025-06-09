@@ -1,6 +1,6 @@
 public class MyClass {
   static void myMethod() {
-    System.out.println("Hello World!");
+    System.out.println("Welcome to Subrat Devops!");
   }
 
   public static void main(String[] args) {
