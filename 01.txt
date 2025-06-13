@@ -4,4 +4,4 @@ This is Subrat.
 
 Welcome to Devops
 
-
+We will learn and share.
